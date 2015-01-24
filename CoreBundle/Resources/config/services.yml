@@ -1,0 +1,7 @@
+parameters:
+#    green_core.example.class: Green\CoreBundle\Example
+
+services:
+#    green_core.example:
+#        class: %green_core.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

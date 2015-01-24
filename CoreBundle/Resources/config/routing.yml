@@ -1,0 +1,3 @@
+green_core_homepage:
+    pattern:  /Green
+    defaults: { _controller: GreenCoreBundle:Default:index }
